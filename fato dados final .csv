@@ -1,0 +1,101 @@
+﻿ANO,MODELO,MARCA,TIPO,RUA,CIDADE,ESTADO,KM,NOME DO DONO,RG,CPF,SEGURO,MODELO GUINCHO,TONELADAS,TIPO GUINCHO,ANO,MARCA
+2022,Compass,Jeep,SUV,BR-116,São Paulo,São Paulo,50,Fernanda Pereira,9012345,  901.234.567-88,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2021,HB20,Hyundai,Hatchback,BR-116,São Paulo,São Paulo,50,Lucas Oliveira,6789012,  678.901.234-55,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Virtus,Volkswagen,Hatchback,Rodovia Presidente Dutra,Rio de Janeiro,Rio de Janeiro,0,Larissa Santos,7890123,  789.012.345-66,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,HB20,Hyundai,Hatchback,Rua Oscar Freire,São Paulo,São Paulo,50,Lucas Oliveira,6789012,  678.901.234-55,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2021,HB20,Hyundai,Hatchback,Rodovia Castelo Branco,Barueri,São Paulo,50,Felipe Oliveira,5678902,  567.890.125-45,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Prisma,Chevrolet,Hatchback,BR-116,São Paulo,São Paulo,50,Mateus Silva,9012346,  901.234.571-89,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Logan,Renault,Sedã,BR-101,Recife,Pernambuco,10,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2022,Corolla,Toyota,Sedã,BR-101,Recife,Pernambuco,10,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Kicks,Nissan,SUV,Av. Paulista,São Paulo,São Paulo,50,Ana Silva,1234567,  123.456.789-00,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2021,Creta,Hyundai,Hatchback,Rua da Aurora,Recife,Pernambuco,10,Isabela Lima,2345679,  234.567.891-12,  Y,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Fit,Honda,Hatchback,Av. Boa Viagem,Recife,Pernambuco,10,Mariana Lima,3456789,  345.678.901-22,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2022,Compass,Jeep,SUV,Rua da Aurora,Recife,Pernambuco,10,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2022,Ka,Ford,Hatchback,Av. Boa Viagem,Recife,Pernambuco,10,Luana Santos,6789013,  678.901.237-56,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2021,Siena,Fiat,Picape,Av. Atlântica,Florianópolis,Santa Catarina,0,Marcos Vieira,3456780,  345.678.902-23,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2021,Virtus,Volkswagen,Hatchback,Rodovia Presidente Dutra,Rio de Janeiro,Rio de Janeiro,0,João Santos,2345678,  234.567.890-11,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2023,Virtus,Volkswagen,Hatchback,Rodovia Presidente Dutra,Rio de Janeiro,Rio de Janeiro,0,Larissa Santos,7890123,  789.012.345-66,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2021,Compass,Jeep,SUV,Av. Paralela,Salvador,Bahia,0,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2022,Toro,Fiat,Picape,BR-101,Recife,Pernambuco,10,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Etios,Toyota,Sedã,Rodovia dos Imigrantes,São Paulo,São Paulo,50,João Santos,2345678,  234.567.890-11,  Y,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Uno,Fiat,Picape,Rua Oscar Freire,São Paulo,São Paulo,50,Gustavo Silva,1234568,  123.456.790-01,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Gol,Volkswagen,Hatchback,Av. Beira-Mar Fortaleza,Ceará,Fortaleza,0,Camila Souza,5678901,  567.890.123-44,  Y,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2021,Gol,Volkswagen,Hatchback,Av. das Américas,Rio de Janeiro,Rio de Janeiro,0,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Siena,Fiat,Picape,Rodovia dos Imigrantes,São Paulo,São Paulo,50,Gustavo Silva,1234568,  123.456.790-01,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Nivus,Volkswagen,Hatchback,Rodovia Castelo Branco,Barueri,São Paulo,50,Gustavo Silva,1234568,  123.456.790-01,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Renegade,Jeep,SUV,Rodovia dos Imigrantes,São Paulo,São Paulo,50,Fernanda Pereira,9012345,  901.234.567-88,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2022,Kicks,Nissan,SUV,Rodovia Presidente Dutra,Rio de Janeiro,Rio de Janeiro,0,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2022,Prisma,Chevrolet,Hatchback,Av. Rio Branco,Rio de Janeiro,Rio de Janeiro,0,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Toro,Fiat,Picape,Av. Atlântica,Florianópolis,Santa Catarina,0,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Fit,Honda,Hatchback,Av. das Américas,Rio de Janeiro,Rio de Janeiro,0,Fernanda Pereira,9012345,  901.234.567-88,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Kicks,Nissan,SUV,BR-116,São Paulo,São Paulo,50,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2023,Virtus,Volkswagen,Hatchback,Rodovia BR-040,Belo Horizonte,Minas Gerais,90,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2021,Renegade,Jeep,SUV,Av. Juscelino Kubitschek,Brasília,Distrito Federal,0,Mariana Lima,3456789,  345.678.901-22,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2021,HB20,Hyundai,Hatchback,Rua Augusta,São Paulo,São Paulo,50,Lucas Oliveira,6789012,  678.901.234-55,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Uno,Fiat,Picape,BR-101,Recife,Pernambuco,10,Ana Silva,1234567,  123.456.789-00,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2023,Siena,Fiat,Picape,Av. Paulista,São Paulo,São Paulo,50,Fernanda Pereira,9012345,  901.234.567-88,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Fit,Honda,Hatchback,Rua da Aurora,Recife,Pernambuco,10,Mariana Lima,3456789,  345.678.901-22,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Onix,Chevrolet,Hatchback,Rua da Aurora,Recife,Pernambuco,10,João Santos,2345678,  234.567.890-11,  Y,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Compass,Jeep,SUV,Rua Augusta,São Paulo,São Paulo,50,Ana Silva,1234567,  123.456.789-00,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2022,Onix,Chevrolet,Hatchback,Av. Boa Viagem,Recife,Pernambuco,10,Rafael Vieira,4567890,  456.789.012-33,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Kicks,Nissan,SUV,Rua Augusta,São Paulo,São Paulo,50,Fernanda Pereira,9012345,  901.234.567-88,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Onix Plus,Chevrolet,Hatchback,Rua da Aurora,Recife,Pernambuco,10,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2022,Renegade,Jeep,SUV,Rua da Aurora,Recife,Pernambuco,10,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Onix,Chevrolet,Hatchback,Rodovia BR-040,Belo Horizonte,Minas Gerais,90,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Virtus,Volkswagen,Hatchback,Av. Beira-Mar Fortaleza,Ceará,Fortaleza,0,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2023,Renegade,Jeep,SUV,Av. Paralela,Salvador,Bahia,0,Larissa Santos,7890123,  789.012.345-66,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2021,Virtus,Volkswagen,Hatchback,Rua da Aurora,Recife,Pernambuco,10,Carolina Pereira,8901235,  890.123.459-78,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2021,Siena,Fiat,Picape,Rua Augusta,São Paulo,São Paulo,50,Lucas Oliveira,6789012,  678.901.234-55,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2021,Strada,Fiat,Picape,Rua da Aurora,Recife,Pernambuco,10,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2022,Prisma,Chevrolet,Hatchback,Rodovia BR-262,Vitória,Espírito Santo,60,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2021,Kicks,Nissan,SUV,Av. Rio Branco,Rio de Janeiro,Rio de Janeiro,0,João Santos,2345678,  234.567.890-11,  Y,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2021,Gol,Volkswagen,Hatchback,Rodovia dos Imigrantes,São Paulo,São Paulo,50,João Santos,2345678,  234.567.890-11,  Y,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2021,Nivus,Volkswagen,Hatchback,Av. Atlântica,Florianópolis,Santa Catarina,0,Lucas Oliveira,6789012,  678.901.234-55,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2023,Kicks,Nissan,SUV,Rua Oscar Freire,São Paulo,São Paulo,50,Gustavo Silva,1234568,  123.456.790-01,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2023,Strada,Fiat,Picape,Av. Juscelino Kubitschek,Brasília,Distrito Federal,0,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Corolla,Toyota,Sedã,BR-116,São Paulo,São Paulo,50,Camila Souza,5678901,  567.890.123-44,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2022,HB20,Hyundai,Hatchback,Av. Juscelino Kubitschek,Brasília,Distrito Federal,0,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Corolla,Toyota,Sedã,Av. Juscelino Kubitschek,Brasília,Distrito Federal,0,Luana Santos,6789013,  678.901.237-56,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Virtus,Volkswagen,Hatchback,Av. Rio Branco,Rio de Janeiro,Rio de Janeiro,0,Marcos Vieira,3456780,  345.678.902-23,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Etios,Toyota,Sedã,Av. Beira-Mar Fortaleza,Ceará,Fortaleza,0,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Corolla,Toyota,Sedã,Rodovia dos Imigrantes,São Paulo,São Paulo,50,Ana Silva,1234567,  123.456.789-00,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2021,Compass,Jeep,SUV,Av. Beira-Mar Fortaleza,Ceará,Fortaleza,0,Fernanda Pereira,9012345,  901.234.567-88,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2022,Prisma,Chevrolet,Hatchback,Rodovia BR-381,Belo Horizonte,Minas Gerais,90,Isabela Lima,2345679,  234.567.891-12,  Y,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Strada,Fiat,Picape,Av. Rio Branco,Rio de Janeiro,Rio de Janeiro,0,Marcos Vieira,3456780,  345.678.902-23,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Prisma,Chevrolet,Hatchback,Av. das Américas,Rio de Janeiro,Rio de Janeiro,0,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Siena,Fiat,Picape,Rua XV de Novembro,Blumenau,Santa Catarina,0,Camila Souza,5678901,  567.890.123-44,  Y,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2021,Onix Plus,Chevrolet,Hatchback,Rua XV de Novembro,Blumenau,Santa Catarina,0,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2022,HB20,Hyundai,Hatchback,Av. das Américas,Rio de Janeiro,Rio de Janeiro,0,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Strada,Fiat,Picape,Av. Juscelino Kubitschek,Brasília,Distrito Federal,0,Isabela Lima,2345679,  234.567.891-12,  Y,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Ka,Ford,Hatchback,BR-116,São Paulo,São Paulo,50,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2022,Compass,Jeep,SUV,Rua XV de Novembro,Blumenau,Santa Catarina,0,Ana Silva,1234567,  123.456.789-00,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2022,Siena,Fiat,Picape,Rodovia BR-262,Vitória,Espírito Santo,60,Mateus Silva,9012346,  901.234.571-89,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2021,Toro,Fiat,Picape,Av. Beira-Mar Fortaleza,Ceará,Fortaleza,0,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2021,HB20,Hyundai,Hatchback,Av. Atlântica,Florianópolis,Santa Catarina,0,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2022,Onix Plus,Chevrolet,Hatchback,Av. Boa Viagem,Recife,Pernambuco,10,Renato Alves,7890124,  789.012.349-67,  Z,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Gol,Volkswagen,Hatchback,Rodovia dos Imigrantes,São Paulo,São Paulo,50,Rafael Vieira,4567890,  456.789.012-33,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Nivus,Volkswagen,Hatchback,Av. Paralela,Salvador,Bahia,0,Isabela Lima,2345679,  234.567.891-12,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2021,Prisma,Chevrolet,Hatchback,Av. Paralela,Salvador,Bahia,0,Camila Souza,5678901,  567.890.123-44,  Y,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2023,Etios,Toyota,Sedã,Av. Boa Viagem,Recife,Pernambuco,10,Ana Silva,1234567,  123.456.789-00,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2022,Onix Plus,Chevrolet,Hatchback,Rua Oscar Freire,São Paulo,São Paulo,50,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2022,Compass,Jeep,SUV,BR-101,Recife,Pernambuco,10,Fernanda Pereira,9012345,  901.234.567-88,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2022,Logan,Renault,Sedã,Rodovia BR-040,Belo Horizonte,Minas Gerais,90,Isabela Lima,2345679,  234.567.891-12,  Y,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2022,Gol,Volkswagen,Hatchback,Rua Oscar Freire,São Paulo,São Paulo,50,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Logan,Renault,Sedã,Av. Boa Viagem,Recife,Pernambuco,10,Felipe Oliveira,5678902,  567.890.125-45,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2022,Logan,Renault,Sedã,Av. Paulista,São Paulo,São Paulo,50,Camila Souza,5678901,  567.890.123-44,  Y,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2022,Fit,Honda,Hatchback,Rua XV de Novembro,Blumenau,Santa Catarina,0,Daniel Vieira,2345680,  234.568.903-11,  Z,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Compass,Jeep,SUV,Av. Atlântica,Florianópolis,Santa Catarina,0,Rafael Vieira,4567890,  456.789.012-33,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Ka,Ford,Hatchback,Av. Paralela,Salvador,Bahia,0,João Santos,2345678,  234.567.890-11,  Y,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Strada,Fiat,Picape,BR-101,Recife,Pernambuco,10,Luana Santos,6789013,  678.901.237-56,  X,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Toro,Fiat,Picape,Av. das Américas,Rio de Janeiro,Rio de Janeiro,0,Larissa Santos,7890123,  789.012.345-66,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2023,Uno,Fiat,Picape,Av. Juscelino Kubitschek,Brasília,Distrito Federal,0,João Santos,2345678,  234.567.890-11,  Y,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Ka,Ford,Hatchback,Rodovia dos Imigrantes,São Paulo,São Paulo,50,Marcos Vieira,3456780,  345.678.902-23,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2022,Uno,Fiat,Picape,BR-116,São Paulo,São Paulo,50,Mariana Lima,3456789,  345.678.901-22,  X,Guincho Modelo B,8,Guincho de Rodas,2022,LiftMaster
+2021,Renegade,Jeep,SUV,Av. Juscelino Kubitschek,Brasília,Distrito Federal,0,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo C,10,Plataforma,2023,GuinchoCorp
+2022,Compass,Jeep,SUV,Rodovia BR-381,Belo Horizonte,Minas Gerais,90,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo A,5,Plataforma,2023,GuinchoCorp
+2023,Nivus,Volkswagen,Hatchback,Av. Boa Viagem,Recife,Pernambuco,10,Lucas Oliveira,6789012,  678.901.234-55,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2022,Creta,Hyundai,Hatchback,Rua Augusta,São Paulo,São Paulo,50,Vivian Lima,1234569,  123.456.792-00,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2023,Onix,Chevrolet,Hatchback,Rua Oscar Freire,São Paulo,São Paulo,50,Mateus Silva,9012346,  901.234.571-89,  X,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2021,Fit,Honda,Hatchback,Rua Oscar Freire,São Paulo,São Paulo,50,Mariana Lima,3456789,  345.678.901-22,  X,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
+2023,Creta,Hyundai,Hatchback,Rodovia Castelo Branco,Barueri,São Paulo,50,Julia Souza,4567891,  456.789.013-34,  Z,Guincho Modelo E,12,Plataforma,2023,GuinchoCorp
+2022,Compass,Jeep,SUV,Av. Beira-Mar Fortaleza,Ceará,Fortaleza,0,Pedro Alves,8901234,  890.123.456-77,  Y,Guincho Modelo D,3,Guincho de Rodas,2022,LiftMaster
